@@ -2,7 +2,7 @@
 
 <h2 dir="auto"></h2>
 
-No momento estou estudando muito para me tornar um excelente Engenheiro de Software. Sou apaixonado por tecnologia e estou em busca da minha primeira oportunidade na área.
+Estudante de Engenharia de Software com forte interesse em desenvolvimento de software, arquitetura de sistemas e análise de dados. Possuo habilidades em gestão de equipes e otimização de processos colaborativos, além de experiência em análise de dados internos para apoiar decisões estratégicas. Apaixonado por resolver problemas complexos e contribuir para a inovação tecnológica, sempre buscando o aprendizado contínuo e a excelência em projetos.
 
 - 💼LinkedIn: https://www.linkedin.com/in/throdriguesr/
 - 📫E-mail: throdriguesmg@gmail.com
