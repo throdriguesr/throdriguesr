@@ -1,4 +1,4 @@
-<h3 dir="auto">👋 Olá! Eu sou o Thiago Rodrigues.</h3>
+<h3 dir="auto">Olá! Eu me chamo Thiago Rodrigues.</h3>
 
 <h2 dir="auto"></h2>
 
@@ -22,8 +22,3 @@ Estudante de Engenharia de Software com forte interesse em desenvolvimento de so
   <a href = "mailto:throdriguesmg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/throdriguesr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
-<!---
-throdriguesr/throdriguesr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
