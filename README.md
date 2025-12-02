@@ -9,13 +9,11 @@
 
 <h2 dir="auto"></h2>
 
-Sou um profissional de tecnologia cuja trajetória conecta naturalmente Engenharia de Dados e Engenharia de Software. Atuo no desenvolvimento de pipelines de dados (ETL), automações com Python, criação de dashboards no Power BI e consultas SQL, além de ter experiência com versionamento utilizando Git e com ambientes em nuvem.
+Sou um profissional de tecnologia com foco atual em Engenharia de Dados. Desenvolvo pipelines de dados (ETL), automações em Python, dashboards no Power BI e soluções envolvendo bancos de dados relacionais. Também atuo com arquiteturas de Big Data, incluindo armazenamento na AWS (S3), construção de Data Lakes e processamento distribuído em ambientes de análise.
 
-Minha vivência também inclui gestão de equipes, organização de demandas e melhoria de processos, o que me ajuda a entregar soluções mais claras, escaláveis e alinhadas às necessidades do negócio.
+Embora minha atuação esteja hoje direcionada ao universo de dados, trago uma base sólida em Engenharia de Software que amplia minha visão técnica e me permite construir soluções completas.
 
-Embora meu foco atual esteja no universo de dados, trago uma base sólida de desenvolvimento de software que amplia minha visão técnica e me permite construir soluções completas, do backend ao tratamento e análise dos dados.
-
-Além disso, possuo experiência prática na área de hardware e IoT, tendo trabalhado com integração entre dispositivos, validação de conectividade, suporte técnico avançado e desenvolvimento de soluções conectadas. Essa bagagem me dá uma compreensão mais ampla dos desafios de sistemas distribuídos e ambientes que combinam hardware e software.
+Além disso, possuo experiência consolidada em hardware, conectividade e soluções IoT, atuando desde a configuração e manutenção de dispositivos até a liderança de equipes e otimização de processos. Tenho expertise em suporte técnico, análise de falhas, gestão de produção e integração entre hardware e software, além de forte habilidade em documentação técnica, condução de treinamentos e implementação de melhorias operacionais que aumentam a eficiência e a qualidade dos serviços.
 
 <h2 dir="auto"></h2>
 
