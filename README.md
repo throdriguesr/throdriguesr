@@ -9,7 +9,7 @@
 
 <h2 dir="auto"></h2>
 
-Sou um profissional de tecnologia com foco atual em Engenharia de Dados. Desenvolvo pipelines de dados (ETL), automações em Python, dashboards no Power BI e soluções envolvendo bancos de dados relacionais. Também atuo com arquiteturas de Big Data, incluindo armazenamento na AWS (S3), construção de Data Lakes e processamento distribuído em ambientes de análise.
+Sou um profissional de tecnologia com foco atual em Engenharia de Dados. Desenvolvo pipelines de dados (ETL), automações em Python, dashboards no Power BI e soluções envolvendo bancos de dados relacionais. Também atuo com arquiteturas de Big Data, incluindo armazenamentos na AWS, construção de Data Lakes e processamento distribuído em ambientes de análise.
 
 Embora minha atuação esteja hoje direcionada ao universo de dados, trago uma base sólida em Engenharia de Software que amplia minha visão técnica e me permite construir soluções completas.
 
