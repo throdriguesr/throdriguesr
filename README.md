@@ -1,6 +1,4 @@
-<h3 dir="auto" align="center">Thiago Rodrigues</h3>
-
-<h2 dir="auto"></h2>
+<h2 dir="auto" align="center">Thiago Rodrigues</h2>
 
 **Engenheiro de Dados** · Belo Horizonte, Brasil
 
@@ -9,6 +7,10 @@ Trabalho com ingestão, transformação e disponibilização de dados para anál
 <h2 dir="auto"></h2>
 
 <h3 dir="auto">Stack</h3>
+
+<br>
+
+<div align="center">
 
 **Dados & Cloud**
 
@@ -24,16 +26,30 @@ Trabalho com ingestão, transformação e disponibilização de dados para anál
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+</div>
+
 <h2 dir="auto"></h2>
 
 <h3 dir="auto">Estatísticas</h3>
 
+<br>
+
+<div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=throdriguesr&show_icons=true&hide_border=true&count_private=true&locale=pt-br" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=throdriguesr&layout=compact&hide_border=true&locale=pt-br" />
+
+</div>
 
 <h2 dir="auto"></h2>
 
 <h3 dir="auto">Contato</h3>
 
+<br>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/throdriguesr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:throdriguesmg@gmail.com)
+
+</div>
