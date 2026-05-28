@@ -8,7 +8,7 @@ Trabalho com ingestão, transformação e disponibilização de dados para anál
 
 ---
 
-## Stack
+<h2 dir="auto" align="center">Stack</h2>
 
 **Dados & Cloud**
 
@@ -26,14 +26,14 @@ Trabalho com ingestão, transformação e disponibilização de dados para anál
 
 ---
 
-## Estatísticas
+<h2 dir="auto" align="center">Estatísticas</h2>
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=throdriguesr&show_icons=true&hide_border=true&count_private=true&locale=pt-br" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=throdriguesr&layout=compact&hide_border=true&locale=pt-br" />
 
 ---
 
-## Contato
+<h2 dir="auto" align="center">Contato</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/throdriguesr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:throdriguesmg@gmail.com)
