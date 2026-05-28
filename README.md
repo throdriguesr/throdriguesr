@@ -1,14 +1,14 @@
-<div align="center">
+<h3 dir="auto" align="center">Thiago Rodrigues</h3>
 
-# Thiago Rodrigues
+<h2 dir="auto"></h2>
 
 **Engenheiro de Dados** · Belo Horizonte, Brasil
 
 Trabalho com ingestão, transformação e disponibilização de dados para análise. No dia a dia uso Python, PySpark e SQL para construir pipelines ETL e AWS para armazenamento e orquestração. Tenho background em hardware e IoT, o que me dá uma visão diferente sobre como os dados são gerados na ponta.
 
----
+<h2 dir="auto"></h2>
 
-<h2 dir="auto" align="center">Stack</h2>
+<h3 dir="auto">Stack</h3>
 
 **Dados & Cloud**
 
@@ -24,18 +24,16 @@ Trabalho com ingestão, transformação e disponibilização de dados para anál
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
+<h2 dir="auto"></h2>
 
-<h2 dir="auto" align="center">Estatísticas</h2>
+<h3 dir="auto">Estatísticas</h3>
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=throdriguesr&show_icons=true&hide_border=true&count_private=true&locale=pt-br" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=throdriguesr&layout=compact&hide_border=true&locale=pt-br" />
 
----
+<h2 dir="auto"></h2>
 
-<h2 dir="auto" align="center">Contato</h2>
+<h3 dir="auto">Contato</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/throdriguesr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:throdriguesmg@gmail.com)
-
-</div>
